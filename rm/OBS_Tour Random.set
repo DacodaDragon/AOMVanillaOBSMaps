@@ -1,0 +1,19 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<randomMaps displayName="All tour" imagepath = "ui\ui map random 256x256" helpText="Randomly selects from all possible Observable maps except Jotunheim, Sudden Death, King of the Hill, The Unknown and Nomad." cannotReplace="">
+	<map>OBS_Acropolis</map>
+	<map>OBS_Alfheim</map>
+	<map>OBS_Anatolia</map>
+	<map>OBS_Archipelago</map>
+	<map>OBS_Erebus</map>
+	<map>OBS_Ghost Lake</map>
+	<map>OBS_Mediterranean</map>
+	<map>OBS_Midgard</map>
+	<map>OBS_Oasis</map>
+	<map>OBS_River Nile</map>
+	<map>OBS_Savannah</map>
+	<map>OBS_Sea of Worms</map>
+	<map>OBS_Team Migration</map>
+	<map>OBS_Valley of Kings</map>
+	<map>OBS_Vinlandsaga</map>
+	<map>OBS_Watering Hole</map>
+</randomMaps>

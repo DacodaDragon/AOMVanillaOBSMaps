@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<randomMaps displayName="OBS" imagepath = "ui\ui map random fast 256x256" helpText="Randomly selects from the faster paced, more agressive observable maps, Alfheim, Anatolia, Ghost Lake, Mediterranean, Midgard,Oasis, Savannah and Watering Hole" cannotReplace="">
+	<map>OBS_Alfheim</map>
+	<map>OBS_Anatolia</map>
+	<map>OBS_Ghost Lake</map>
+	<map>OBS_Mediterranean</map>
+	<map>OBS_Midgard</map>
+	<map>OBS_Oasis</map>
+	<map>OBS_Savannah</map>
+	<map>OBS_Watering Hole</map>
+</randomMaps>
